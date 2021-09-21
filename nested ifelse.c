@@ -8,7 +8,7 @@ scanf("%d",&var1);
 printf("enter the value of var2\n");
 scanf("%d",&var2);
 if(var1!=var2){printf("variable 1 is not equal to var2\n");
-
+// nested if else.
 if(var1>var2){printf("variable1 is greater than variable2\n");}
 
 
